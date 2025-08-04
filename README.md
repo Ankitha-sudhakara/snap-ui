@@ -19,7 +19,7 @@ This repository showcases a clean and modern app interface crafted using **Figma
 
 ## Preview
 
-![Design Screenshot](/.uiimage.png)
+![Design Screenshot](uiimage.png)
 
 ## Figma Link
 
